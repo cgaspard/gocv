@@ -19,7 +19,7 @@ import (
 	"image"
 	"os"
 
-	"gocv.io/x/gocv"
+	"github.com/cgaspard/gocv"
 )
 
 func main() {

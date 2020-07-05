@@ -13,8 +13,8 @@ package main
 import (
 	"fmt"
 
-	"gocv.io/x/gocv"
-	"gocv.io/x/gocv/openvino/ie"
+	"github.com/cgaspard/gocv"
+	"github.com/cgaspard/gocv/openvino/ie"
 )
 
 func main() {

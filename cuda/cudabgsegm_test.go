@@ -1,8 +1,9 @@
 package cuda
 
 import (
-	"gocv.io/x/gocv"
 	"testing"
+
+	"github.com/cgaspard/gocv"
 )
 
 func TestCudaMOG2(t *testing.T) {

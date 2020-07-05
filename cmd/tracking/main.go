@@ -23,8 +23,8 @@ import (
 	"image/color"
 	"os"
 
-	"gocv.io/x/gocv"
-	"gocv.io/x/gocv/contrib"
+	"github.com/cgaspard/gocv"
+	"github.com/cgaspard/gocv/contrib"
 )
 
 func main() {

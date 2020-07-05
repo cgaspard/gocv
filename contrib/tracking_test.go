@@ -1,9 +1,10 @@
 package contrib
 
 import (
-	"gocv.io/x/gocv"
 	"image"
 	"testing"
+
+	"github.com/cgaspard/gocv"
 )
 
 func BaseTestTracker(t *testing.T, tracker Tracker, name string) {
